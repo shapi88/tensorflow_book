@@ -2,10 +2,6 @@
 
 This learning teach the foundations of deep learning and TensorFlow as well as prepare to pass the TensorFlow Developer Certification exam (optional but a must have).
 
-## Course materials
-
-This table is the ground truth for course materials. All the links needed for everything will be here.
-
 Key:
 * **Number:** The number of the target notebook (this may not match the video section of the course but it ties together all of the materials in the table)
 * **Notebook:** The notebook for a particular module with lots of code and text annotations (notebooks from the videos are based on these)
@@ -27,43 +23,6 @@ Key:
 | 09 | [Milestone Project 2: SkimLit 📄🔥](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/09_SkimLit_nlp_milestone_project_2.ipynb) | [`pubmed_RCT_200k_dataset`](https://github.com/Franck-Dernoncourt/pubmed-rct.git), [`skimlit_tribrid_model`](https://storage.googleapis.com/ztm_tf_course/skimlit/skimlit_tribrid_model.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-09-milestone-project-2-skimlit--exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/09_milestone_project_2_skimlit.pdf) |
 | 10 | [TensorFlow Time Series Fundamentals & Milestone Project 3: BitPredict 💰📈](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/10_time_series_forecasting_in_tensorflow.ipynb) | [`bitcoin_price_data_USD_2013-10-01_2021-05-18.csv`](https://raw.githubusercontent.com/mrdbourke/tensorflow-deep-learning/main/extras/BTC_USD_2013-10-01_2021-05-18-CoinDesk.csv) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-10-time-series-fundamentals-and-milestone-project-3-bitpredict--exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/10_time_series_fundamentals_and_milestone_project_3_bitpredict.pdf) |
 | 11 | [Preparing to Pass the TensorFlow Developer Certification Exam](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/11_passing_the_tensorflow_developer_certification_exam.md) | | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-11-passing-the-tensorflow-developer-certification-exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/11_passing_the_tensorflow_developer_certification_exam.pdf) |
-
-## Course structure
-
-This course is code first. The goal is to get you writing deep learning code as soon as possible.
-
-It is taught with the following mantra:
-
-```
-Code -> Concept -> Code -> Concept -> Code -> Concept
-```
-
-This means we write code first then step through the concepts behind it.
-
-If you've got 6-months experience writing Python code and a willingness to learn (most important), you'll be able to do the course.
-
-## Should you do this course?
-
-> Do you have 1+ years experience with deep learning and writing TensorFlow code?
-
-If yes, no you shouldn't, use your skills to build something. 
-
-If no, move onto the next question.
-
-> Have you done at least one beginner machine learning course and would like to learn about deep learning/pass the TensorFlow Developer Certification?
-
-If yes, this course is for you.
-
-If no, go and do a beginner machine learning course and if you decide you want to learn TensorFlow, this page will still be here.
-
-## Prerequisites
-
-> What do I need to know to go through this course?
-
-* **6+ months writing Python code.** Can you write a Python function which accepts and uses parameters? That’s good enough. If you don’t know what that means, spend another month or two writing Python code and then come back here.
-* **At least one beginner machine learning course.** Are you familiar with the idea of training, validation and test sets? Do you know what supervised learning is? Have you used pandas, NumPy or Matplotlib before? If no to any of these, I’d going through at least one machine learning course which teaches these first and then coming back. 
-* **Comfortable using Google Colab/Jupyter Notebooks.** This course uses Google Colab throughout. If you have never used Google Colab before, it works very similar to Jupyter Notebooks with a few extra features. If you’re not familiar with Google Colab notebooks, I’d suggest going through the Introduction to Google Colab notebook.
-* **Plug:** The [Zero to Mastery beginner-friendly machine learning course](https://dbourke.link/ZTMMLcourse) (I also teach this) teaches all of the above (and this course is designed as a follow on).
 
 ## 🛠 Exercises & 📖 Extra-curriculum
 
